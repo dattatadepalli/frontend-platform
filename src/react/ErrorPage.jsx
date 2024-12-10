@@ -39,7 +39,7 @@ function ErrorPage({
       <Container fluid className="py-5 justify-content-center align-items-start text-center" data-testid="error-page">
         <Row>
           <Col>
-            <p className="text-muted">
+            <p className="text-muted testing">
               <FormattedMessage
                 id="unexpected.error.message.text"
                 defaultMessage="An unexpected error occurred. Please click the button below to refresh the page"
