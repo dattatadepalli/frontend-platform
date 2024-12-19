@@ -42,7 +42,7 @@ function ErrorPage({
             <p className="text-muted">
               <FormattedMessage
                 id="unexpected.error.message.text"
-                defaultMessage="An unexpected error occurred. Please click the button below to refresh the page."
+                defaultMessage="An unexpected error occurred. Please click the button below to refresh the page to continue."
                 description="error message when an unexpected error occurs"
               />
             </p>
